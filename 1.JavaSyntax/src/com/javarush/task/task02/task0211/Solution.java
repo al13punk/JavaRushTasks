@@ -16,7 +16,7 @@ public class Solution {
         x = x * 2;
         y = y + x;
 
-        x = x * 2;
+//        x = x * 2;
         y = y + x;
 
         x = x * 2;
