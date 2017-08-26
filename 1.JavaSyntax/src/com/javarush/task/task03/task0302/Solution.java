@@ -11,6 +11,7 @@ public class Solution {
     }
 
     private static void printString(String s) {
+        System.out.println(s);
 
     }
 

@@ -11,6 +11,6 @@ public class Solution {
 
     public static double convertEurToUsd(int eur, double course) {
         //напишите тут ваш код
-        return 0;
+        return eur*course;
     }
 }
