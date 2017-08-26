@@ -11,5 +11,7 @@ public class Solution {
 
     public static int sumDigitsInNumber(int number) {
         //напишите тут ваш код
+        return 0;
+
     }
 }

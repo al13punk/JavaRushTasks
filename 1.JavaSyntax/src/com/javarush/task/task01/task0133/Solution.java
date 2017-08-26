@@ -10,6 +10,7 @@ public class Solution {
     }
 
     public static int getCountSecondsPassedInCurrentHour(int seconds) {
-        //напишите тут ваш код
+        //напишите тут ваш кодw
+        return 10;
     }
 }

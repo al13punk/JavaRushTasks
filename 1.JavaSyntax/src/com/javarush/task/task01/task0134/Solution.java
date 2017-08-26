@@ -11,5 +11,7 @@ public class Solution {
 
     public static long getVolume(int a, int b, int c) {
         //напишите тут ваш код
+        return 0;
+
     }
 }

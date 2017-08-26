@@ -5,7 +5,7 @@ package com.javarush.task.task09.task0901;
 */
 
 public class Solution {
-    public static void main(String[] args) throws Exception {
+   /* public static void main(String[] args) throws Exception {
         method1();
     }
 
@@ -31,5 +31,5 @@ public class Solution {
 
     public static StackTraceElement[] method5() {
         //напишите тут ваш код
-    }
+    }*/
 }

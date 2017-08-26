@@ -9,4 +9,10 @@ public class Solution {
     public static void main(String[] args) {
         printString("Hello Amigo!");
     }
+
+    private static void printString(String s) {
+
+    }
+
+
 }
