@@ -11,6 +11,6 @@ public class Solution {
 
     public static int getCountSecondsPassedInCurrentHour(int seconds) {
         //напишите тут ваш кодw
-        return 10;
+        return  seconds%3600;
     }
 }
