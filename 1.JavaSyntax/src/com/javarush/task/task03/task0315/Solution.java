@@ -4,9 +4,18 @@ package com.javarush.task.task03.task0315;
 Каждый охотник желает знать…
 */
 
+import java.io.Reader;
+
 public class Solution {
     public static void main(String[] args) {
         //напишите тут ваш код
+        Red red = new Red();
+        Orange orange = new Orange();
+        Yellow yellow = new Yellow();
+        Green green = new Green();
+        Blue blue = new Blue();
+        Indigo indigo = new Indigo();
+        Violet violet = new Violet();
     }
 
     public static class Red {
